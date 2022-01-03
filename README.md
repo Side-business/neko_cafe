@@ -26,7 +26,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 
 $ brew install php@7.2
 
-##　Composerのインストール
+## Composerのインストール
 
 次にLaravelをインストールするためにComposerというPHPのパッケージマネージャーをインストールする。
 
