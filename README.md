@@ -12,7 +12,7 @@ $ git clone git@github.com:Side-business/neko_cafe.git
 
 $ php -v
 
-PHP 7.1.14 (cli)のような文字が出てくるので、数字が７.０以上であればOK。
+PHP 7.1.14 (cli)のような文字が出てくるので、数字が7.1以上であればOK。
 
 もしPHPが７.０以下ならば、PHPをアップデートする必要あり。
 
@@ -46,5 +46,5 @@ $ cd MAMP/htdocs/neko_cafe
 
 $ php artisan serve
 
-http://localhost:8888/
+http://localhost:8000/
 にアクセスする
